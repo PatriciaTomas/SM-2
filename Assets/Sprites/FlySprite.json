@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "FlySprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 247
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fly_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 29,
+						"w": 120,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 120,
+						"h": 73
+					}
+				},
+				{
+					"filename": "fly_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 24,
+						"w": 108,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 76,
+						"w": 108,
+						"h": 84
+					}
+				},
+				{
+					"filename": "fly_death.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 24,
+						"w": 108,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 162,
+						"w": 108,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:47717d491cf7158fe2b25acc14c42656:a79a48de09e9e670fdbbcce599f692dd:ab8231cf1086410429f65f46615e7a48$"
+	}
+}
